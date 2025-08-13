@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Vlvcruz">
-  ![Vitor Leon](img/nome.png)  
+    <img src="nome.png" width="190px" title="Vitor Leon" alt="Vitor Leon">
   </a>
 </p>
 
