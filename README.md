@@ -23,12 +23,13 @@ Sou movido por novos desafios, aprendizado constante e metas bem definidas.
 Quer saber mais sobre mim? Me acompanhe nas redes sociais!
 
 Até breve!
+
 <p align="center">
-    <a href="https://www.linkedin.com/in/jonah-lawrence/"><img src="in.png" width="90px"  alt="LinkedIn" title="LinkedIn"/></a>
-    <a href="https://www.instagram.com/two__leon" target="_blank" style="font-size:24px; padding:0 10px; text-decoration:none;" alt="Instagram" title="Instagram">
-    <i class="fa fa-instagram" style="font-size:20x; color:black"></i> Instagram
+    <a href="https://www.linkedin.com/in/jonah-lawrence/"><img src="img/in.png" width="90px"  alt="LinkedIn" title="LinkedIn"/></a>
+    <a href="https://www.instagram.com/two__leon" target="_blank" style="font-size:24px; padding:0 5px; text-decoration:none;" alt="Instagram" title="Instagram">
+    <img src="insta.png" width="130px">
     <a href="https://wa.me/5511985229968
-    " target="_blank" style="font-size:20px; padding:0 0 0 2px; text-decoration:none;" alt="WhatsApp" title="WhatsApp"><i class="fa fa-whatsapp" style="font-size:26px; color:black"></i> (11) 98522-9968
+    " target="_blank" style="font-size:20px; text-decoration:none;" alt="WhatsApp" title="WhatsApp"><img src="whatsapp-logo-.png" width="130px">
 </a>
 </p>
 
