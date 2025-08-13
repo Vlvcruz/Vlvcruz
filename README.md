@@ -3,12 +3,12 @@
 
 <p align="center">
   <a href="https://github.com/Vlvcruz">
-    <img src="img/name.png" alt="Vitor Leon" width="130" height="90" /></a>
+    <img src="img/nome.png" alt="Vitor Leon" width="130" height="90" /></a>
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F75C02&random=true&width=435&lines=Desenvolvedor+Back-End;Analise+e+Desenvolvimento+de+Sistemas+-+ETEC;Novo+no+mundo+da+Programa%C3%A7%C3%A3o;Sempre+Buscando+novos+Desafios" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=Blue&random=true&width=435&lines=Desenvolvedor+Back-End;Novo+no+mundo+da+Programa%C3%A7%C3%A3o;Sempre+Buscando+novos+Desafios" alt="Typing SVG" />
   </a>
 
 </div>
@@ -24,10 +24,25 @@ Até breve!
 <p align="center">
     <a href="https://www.linkedin.com/in/jonah-lawrence/"><img src="img/in.png" width="90px"  alt="LinkedIn" title="LinkedIn"/></a>
     <a href="https://www.instagram.com/two__leon" target="_blank" style="font-size:24px; padding:0 10px; text-decoration:none;" alt="Instagram" title="Instagram">
-    <i class="fa fa-instagram" style="font-size:20x; color:#F75C02"></i> Instagram
-    <a href="" target="_blank" style="font-size:20px; padding:0 0 0 2px; text-decoration:none;" alt="WhatsApp" title="WhatsApp"><i class="fa fa-whatsapp" style="font-size:24px; color:#F75C02"></i> (11) 98522-9968
+    <i class="fa fa-instagram" style="font-size:20x; color:black"></i> Instagram
+    <a href="https://wa.me/5511985229968
+    " target="_blank" style="font-size:20px; padding:0 0 0 2px; text-decoration:none;" alt="WhatsApp" title="WhatsApp"><i class="fa fa-whatsapp" style="font-size:26px; color:black"></i> (11) 98522-9968
 </a>
 </p>
+
+--- 
+### 🎓 Especialização
+
+- **Fundamentos de Python**  
+  <img src="img/senai.png" width="65px" alt="Senai" title="Senai">
+
+- **Analise e Desenvolvimento de Sistemas**<br>
+  <img src="img/Logo-Etec.png" width="60px" alt="Etec" title="Etec">
+
+- **Sistema da Informação - Cursando 7º Semestre**<br>
+  <img src="img/Logo_umc.png" width="60px" alt="Universidade de mogi das Cruzes" title="Universidade de Mogi das Cruzes" >
+
+<br>
 
 --- 
 
@@ -93,16 +108,35 @@ Até breve!
 /> 
 <img 
 align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Java" 
+    title="Java"
     width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+<img 
+align="left" 
+  alt="MariaBD" 
+  title="MariaBD"
+  width="37px"
+  style="padding-left: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg"
+/>
+<img 
+align="left" 
+    alt="MySql" 
+    title="MySql"
+    width="32px"
+    style="padding-left: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"    
+/>
+          
 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+---
+
+### ⏳ Linha do Tempo
 
 <p>
   <img 
@@ -110,17 +144,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Vlvcruz&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlvcruz&theme=highcontrast&layout=compact&custom_title=Experiências&langs_count=10" 
   />
 
 </p>
-
-
-[def]: escritivo.xm
