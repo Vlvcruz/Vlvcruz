@@ -55,8 +55,6 @@ Até breve!
 - **Sistema da Informação - Cursando 7º Semestre**<br>
   <img src="Logo_umc.png" width="60px" alt="Universidade de mogi das Cruzes" title="Universidade de Mogi das Cruzes" >
 
-<br>
-
 --- 
 
 ### 🤖 Linguagens e Tecnologias
