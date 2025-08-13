@@ -25,12 +25,15 @@ Quer saber mais sobre mim? Me acompanhe nas redes sociais!
 Até breve!
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/jonah-lawrence/"><img src="img/in.png" width="90px"  alt="LinkedIn" title="LinkedIn"/></a>
-    <a href="https://www.instagram.com/two__leon" target="_blank" style="font-size:24px; padding:0 5px; text-decoration:none;" alt="Instagram" title="Instagram">
-    <img src="insta.png" width="130px">
-    <a href="https://wa.me/5511985229968
-    " target="_blank" style="font-size:20px; text-decoration:none;" alt="WhatsApp" title="WhatsApp"><img src="whatsapp-logo-.png" width="130px">
-</a>
+  <a href="https://www.linkedin.com/in/jonah-lawrence/" target="_blank">
+    <img src="in.png" width="90px" alt="LinkedIn" title="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/5511985229968" target="_blank">
+    <img src="whatsapp-logo-.png" width="110px" alt="WhatsApp" title="WhatsApp"/>
+  </a>
+  <a href="https://www.instagram.com/two__leon" target="_blank">
+    <img src="insta.png" width="130px" alt="Instagram" title="Instagram"/>
+  </a>
 </p>
 
 --- 
