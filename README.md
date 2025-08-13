@@ -23,7 +23,7 @@ Quer saber mais sobre mim? Me acompanhe nas redes sociais!
 
 Até breve!
 <p align="center">
-    <a href="https://www.linkedin.com/in/jonah-lawrence/"><img src="img/in.png" width="90px"  alt="LinkedIn" title="LinkedIn"/></a>
+    <a href="https://www.linkedin.com/in/jonah-lawrence/"><img src="in.png" width="90px"  alt="LinkedIn" title="LinkedIn"/></a>
     <a href="https://www.instagram.com/two__leon" target="_blank" style="font-size:24px; padding:0 10px; text-decoration:none;" alt="Instagram" title="Instagram">
     <i class="fa fa-instagram" style="font-size:20x; color:black"></i> Instagram
     <a href="https://wa.me/5511985229968
@@ -35,13 +35,13 @@ Até breve!
 ### 🎓 Especialização
 
 - **Fundamentos de Python**  
-  <img src="img/senai.png" width="65px" alt="Senai" title="Senai">
+  <img src="senai.png" width="65px" alt="Senai" title="Senai">
 
 - **Analise e Desenvolvimento de Sistemas**<br>
-  <img src="img/Logo-Etec.png" width="60px" alt="Etec" title="Etec">
+  <img src="Logo-Etec.png" width="60px" alt="Etec" title="Etec">
 
 - **Sistema da Informação - Cursando 7º Semestre**<br>
-  <img src="img/Logo_umc.png" width="60px" alt="Universidade de mogi das Cruzes" title="Universidade de Mogi das Cruzes" >
+  <img src="Logo_umc.png" width="60px" alt="Universidade de mogi das Cruzes" title="Universidade de Mogi das Cruzes" >
 
 <br>
 
