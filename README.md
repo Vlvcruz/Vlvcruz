@@ -7,13 +7,12 @@
     <img src="nome.png" width="190px" title="Vitor Leon" alt="Vitor Leon">
   </a>
 </p>
-
-<div style="display: flex; justify-content: center; align-items: center;">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=Blue&random=true&width=435&lines=Desenvolvedor+Back-End;Novo+no+mundo+da+Programa%C3%A7%C3%A3o;Sempre+Buscando+novos+Desafios" alt="Typing SVG" />
   </a>
+</p>
 
-</div>
 <hr><br>
 Olá, muito prazer! Meu nome é Vitor Leon, nascido em 2004. Atualmente, curso Bacharelado em Sistemas de Informação na Universidade de Mogi das Cruzes (UMC), no período noturno.
 Sou formado pela ETEC de Itaquaquecetuba em Análise e Desenvolvimento de Sistemas.</br> 
@@ -24,17 +23,25 @@ Quer saber mais sobre mim? Me acompanhe nas redes sociais!
 
 Até breve!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jonah-lawrence/" target="_blank">
-    <img src="in.png" width="90px" alt="LinkedIn" title="LinkedIn"/>
-  </a>
-  <a href="https://wa.me/5511985229968" target="_blank">
-    <img src="whatsapp-logo-.png" width="110px" alt="WhatsApp" title="WhatsApp"/>
-  </a>
-  <a href="https://www.instagram.com/two__leon" target="_blank">
-    <img src="insta.png" width="130px" alt="Instagram" title="Instagram"/>
-  </a>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/jonah-lawrence/" target="_blank">
+        <img src="in.png" width="130px" alt="LinkedIn" title="LinkedIn"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://wa.me/5511985229968" target="_blank">
+        <img src="whatsapp-logo-.png" width="130px" alt="WhatsApp" title="WhatsApp"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/two__leon" target="_blank">
+        <img src="insta.png" width="130px" alt="Instagram" title="Instagram"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 --- 
 ### 🎓 Especialização
