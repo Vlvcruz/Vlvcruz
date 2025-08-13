@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="https://github.com/Vlvcruz">
-    <img src="img/nome.png" alt="Vitor Leon" width="130" height="90" /></a>
+  ![Vitor Leon](img/nome.png)  
+  </a>
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
