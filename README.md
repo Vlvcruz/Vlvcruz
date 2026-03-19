@@ -52,7 +52,7 @@ Até breve!
 - **Analise e Desenvolvimento de Sistemas**<br>
   <img src="Logo-Etec.png" width="60px" alt="Etec" title="Etec">
 
-- **Sistema da Informação - Cursando 7º Semestre**<br>
+- **Sistema da Informação - Cursando 8º Semestre**<br>
   <img src="Logo_umc.png" width="60px" alt="Universidade de mogi das Cruzes" title="Universidade de Mogi das Cruzes" >
 
 --- 
@@ -146,7 +146,7 @@ align="left"
     title="Delphi"
     width="32px"
     style="padding-left: 10px;"
-    src="https://www.svgrepo.com/vectors/delphi-for-android/](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg"    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg"    
 />
           
 
