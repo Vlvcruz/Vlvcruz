@@ -140,6 +140,14 @@ align="left"
     style="padding-left: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"    
 />
+<img 
+align="left" 
+    alt="Delphi" 
+    title="Delphi"
+    width="32px"
+    style="padding-left: 10px;"
+    src="https://www.svgrepo.com/vectors/delphi-for-android/"    
+/>
           
 
 <br/>
