@@ -146,7 +146,7 @@ align="left"
     title="Delphi"
     width="32px"
     style="padding-left: 10px;"
-    src="https://www.svgrepo.com/vectors/delphi-for-android/"    
+    src="https://www.svgrepo.com/vectors/delphi-for-android/](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg"    
 />
           
 
